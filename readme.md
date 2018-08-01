@@ -1,9 +1,10 @@
 # Visualization of UFO Sighting Data
 
-In this project we generated 10different typesofvisualizations for the UFO sigtings data based upon different features.
+In this project we generated 10 different typesofvisualizations for the UFO sigtings data based upon different features.
 
-ALso we buil a catalogue of 3500 Images scraped from UFOStalker using ImageCat(https://github.com/chrismattmann/imagecat)
-And then we used thisindex of images and built a dashboard where we were able to search similar images using flann index.
+Also we built a catalogue of 3500 Images scraped from UFOStalker using ImageCat(https://github.com/chrismattmann/imagecat)
+
+And then we used this index of images and built a dashboard where we were able to search similar images using flann index.
 
 
 
